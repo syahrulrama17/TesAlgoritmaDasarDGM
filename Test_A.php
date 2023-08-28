@@ -18,9 +18,9 @@
 
    foreach ($array as $item) {
       if (is_numeric($item)) {
-         $abjad[] = $item;
-      } else {
          $angka[] = $item;
+      } else {
+         $abjad[] = $item;
       }
    }
 
