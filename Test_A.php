@@ -2,7 +2,7 @@
 <html>
 
 <head>
-   <title>Test B</title>
+   <title>Test A</title>
 </head>
 
 <body>
